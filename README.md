@@ -7,8 +7,7 @@ A Currency Converter app that built using React.js
 * Uses the open-source API from - Exchange Rates API
 
 # Screenshot
-
-
+![Currency-Converter](https://user-images.githubusercontent.com/55742997/75110231-64f09d00-5634-11ea-9643-6acc4a040c62.jpg)
 
 
 
