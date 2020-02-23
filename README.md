@@ -1,6 +1,10 @@
 # Description
+A Currency Converter app that built using React.js
 
 # Highlights
+* Built with modern technologies
+* Does not require any API keys
+* Uses the open-source API from - Exchange Rates API
 
 # Screenshot
 
