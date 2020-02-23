@@ -1,5 +1,5 @@
 # Description
-A Currency Converter app that built using React.js
+A Currency Converter app that built using React.js and Exchange Rates API
 
 # Highlights
 * Built with modern technologies
