@@ -1,6 +1,6 @@
 # Description
-A Currency Converter app that built using React.js
-Live exchange rates was provided by Exchange Rates API
+A Currency Converter app that built using React.js <br />
+live exchange rates was provided by Exchange Rates API
 
 # Highlights
 * Built with modern technologies
