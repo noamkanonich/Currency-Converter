@@ -5,7 +5,7 @@ Live exchange rates was provided by Exchange Rates API
 # Highlights
 * Built with modern technologies
 * Does not require any API keys
-* Uses Live exchange rates API that was provided by - Exchange Rates API
+* Uses Live exchange rates API by - Exchange Rates API
 
 # Screenshot
 ![Currency-Converter](https://user-images.githubusercontent.com/55742997/75110231-64f09d00-5634-11ea-9643-6acc4a040c62.jpg)
